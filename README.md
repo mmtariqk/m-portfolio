@@ -15,20 +15,11 @@ GitHub Repository URL: 2. https://github.com/mmtariqk/m-portfolio
 
 c.  App Screenshots:
 
-## Screenshot of the Deployed Webpage
-* Word Search (Main Page)
+<img width="481" alt="Screen Shot 2021-03-21 at 11 53 31 PM" src="https://user-images.githubusercontent.com/77028806/111951303-b752f600-8aa0-11eb-8917-4294eaa8246b.png">
 
-![code](./assets/images/word-search.jpg)
+<img width="484" alt="Screen Shot 2021-03-21 at 11 54 16 PM" src="https://user-images.githubusercontent.com/77028806/111951348-ca65c600-8aa0-11eb-9130-fa4ed035906e.png">
 
-* Word Quiz
-
-![code](./assets/images/word-quiz.jpg)
-
-* Word of the Day
-
-![code](./assets/images/WordOfDay.jpg)
-
-
+<img width="1154" alt="Screen Shot 2021-03-21 at 11 55 01 PM" src="https://user-images.githubusercontent.com/77028806/111951431-e79a9480-8aa0-11eb-804f-75d7fafa806d.png">
 
 <img width="1686" alt="Screen Shot 2021-02-14 at 1 54 15 PM" src="https://user-images.githubusercontent.com/77028806/107890521-50a15200-6ece-11eb-8094-26a45ed18690.png">
 
