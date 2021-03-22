@@ -9,9 +9,9 @@ After all, this web application is fully responsive and have a mobile friendly h
 
 b.	Hosting Webpage on GitHub and here is a links to the app:
 
-Website Deployed URL: 1. https://mmtariqk.github.io/my-portfolio/ 
+Website Deployed URL: 1. https://mmtariqk.github.io/m-portfolio/ 
 
-GitHub Repository URL: 2. https://github.com/mmtariqk/my-portfolio
+GitHub Repository URL: 2. https://github.com/mmtariqk/m-portfolio
 
 c.  App Screenshots:
 
